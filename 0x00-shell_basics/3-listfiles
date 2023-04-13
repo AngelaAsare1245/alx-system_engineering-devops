@@ -1,3 +1,4 @@
 #!/bin/bash
 ls -i
-
+#!/bin/bash
+ls -l
